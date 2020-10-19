@@ -1,0 +1,1 @@
+start chrome "https://jira.evolutiongaming.com/secure/Dashboard.jspa"
